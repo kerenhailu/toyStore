@@ -6,7 +6,7 @@ export const Bool = () => {
   return (
     <div>
       <h1>Bool</h1>
-      <h3>context : {MyContext}</h3>
+      <h3>the context : {MyContext}</h3>
     </div>
   );
 };
